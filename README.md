@@ -31,6 +31,7 @@ Name it to: **SkillTest.v0**
 
 Now, you have to options, one, to upload the audios or to record them with your computer's microphone. Download the [audios.zip](audios.zip) file that contains 5 audios, uncompress them and then upload the files along with the next utterances:
 
++ Audio: *pulpo.mp3*, Utterance: *pulpo a la gallega*
 + Audio: *pulpoalagallega.mp3*, Utterance: *i want pulpo a la gallega*
 + Audio: *iwanttomakeareservation.mp3*, Utterance: *i want to make a reservation*
 + Audio: *findakoreanrestaurant.mp3*, Utterance: *find a korean restaurant*

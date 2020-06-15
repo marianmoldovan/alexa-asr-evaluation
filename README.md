@@ -31,7 +31,7 @@ Name it to: **SkillTest.v0**
 
 Now, you have to options, one, to upload the audios or to record them with your computer's microphone. Upload the following files and add the utterances:
 
-+ Audio: <a id="raw-url" href="https://raw.githubusercontent.com/marianmoldovan/alexa-asr-evaluation/master/audios/pulpoalagallega.mp3">pulpoalagallega.mp3</a>, Utterance: *i want pulpo a la gallega*
++ Audio: [pulpoalagallega.mp3](audios/pulpoalagallega.mp3)</a>, Utterance: *i want pulpo a la gallega*
 
 
 

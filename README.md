@@ -21,3 +21,17 @@ Import the interaction code from the example, for that, go to **Build**, **JSON 
 
 After the build has finished, click on **Evaluate Model**, on **Utterance profiler** and type *I want a spanish restaurant* and check that the returned intent is *searchRestaurant*
 
+### Step 2. Create an ASR Annotation Set
+
+Go to the **Annotation Sets** tab, and select the **ASR Evaluation** option.
+
+Here you can see the annotation sets you have configured for this skill, if you followed the steps in order, you shouldn't have any. So click on create annotation set.
+
+Name it to: **SkillTest.v0**
+
+Now, you have to options, one, to upload the audios or to record them with your computer's microphone. Upload the following files and add the utterances:
+
++ Audio: <a id="raw-url" href="https://raw.githubusercontent.com/marianmoldovan/alexa-asr-evaluation/master/audios/pulpoalagallega.mp3">pulpoalagallega.mp3</a>, Utterance: *i want pulpo a la gallega*
+
+
+

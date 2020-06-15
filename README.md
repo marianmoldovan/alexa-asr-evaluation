@@ -48,5 +48,18 @@ Click **Save Annotation Set** and follow up.
 Go back to your interaction model, clicking any Intent. Hit the **Evaluate model button**, **ASR Evaluation**, select the annotation set you've just created and run a test, you should get:
 ![test](/screenshots/test.png)
 
+### Step 3. Improve your model
+
+Now you can see the failures and uncorrect transcriptions. 
+
+Let's map the values and improve our results. First, let's map the utterance **pulpo a la gallega** as a synonym for **spanish** in the **foodType** slot, you should have:
+![Map slot](/screenshots/map-slot.png)
+
+And then, map the utterance **i want pulpo a la gallega** to the **searchRestaurant** and mark **pulpo a la gallega** as **foodType** slot. You should see:
+![Map slot](/screenshots/map-intent.png)
+
+
+
+
 
 

@@ -58,8 +58,8 @@ Let's map the values and improve our results. First, let's map the utterance **p
 And then, map the utterance **i want pulpo a la gallega** to the **searchRestaurant** and mark **pulpo a la gallega** as **foodType** slot. You should see:
 ![Map slot](/screenshots/map-intent.png)
 
-
-
+Now, build again the model, **Save Model** and then **Build Model**, wait for it to be done and test again the annotation set, you should see some improvement, like:
+![Improvement](/screenshots/improvement.png)
 
 
 

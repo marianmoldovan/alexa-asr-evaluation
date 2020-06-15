@@ -37,6 +37,15 @@ Now, you have to options, one, to upload the audios or to record them with your 
 + Audio: *iwantareservationforsaturday.mp3*, Utterance: *i want a reservation for saturday for 2*
 + Audio: *findarestaurant.mp3*, Utterance: *find a restaurant*
 
+Your annotation set should look like:
+![Annotation set](/screenshots/annotation-set.png)
+
+Click **Save Annotation Set** and follow up.
+
+### Step 3. Test an annotation set
+
+Go back to your interaction model, clicking any Intent. Hit the **Evaluate model button**, **ASR Evaluation**, select the annotation set you've just created and run a test, you should get:
+![test](/screenshots/test.png)
 
 
 
